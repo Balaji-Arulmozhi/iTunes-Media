@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  iTunesMedia
+
+  Created by Kumararaja Krishnan on 7/19/24.
+  
+*/
+//Mark: - Network Error Strings
+"InvalidURL" = "Invalid URL error occurred.";
+"RequestFailed" = "Request failed with error:";
+"InvalidResponse" = "Invalid response error occurred.";
+"DecodingFailedWithError" = "Decoding failed with error:";
+"UnAuthorizedError" = "Invalid Credentials";
+"NoNetwork" = "Please check your internet Connection";
